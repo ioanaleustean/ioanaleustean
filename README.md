@@ -38,4 +38,4 @@ My current research focuses on logic for specification and verification, with a 
 📬 **Email**: `ioana.leustean@unibuc.ro` 
 
 🌐 **Webpages**: [`cs.unibuc.ro/~ileustean`](https://cs.unibuc.ro/~ileustean/) <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; [`ioanaleustean.github.io`](https://ioanaleustean.github.io/) (mirror)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; [`ioanaleustean.github.io`](https://ioanaleustean.github.io/) 
